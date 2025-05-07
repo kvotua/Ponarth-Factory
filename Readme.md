@@ -1,7 +1,5 @@
 
-# Dev
-
-> http://*/   
+# Dev 
 > http://*/swagger-ui/index.html
 
 # Doc about users
